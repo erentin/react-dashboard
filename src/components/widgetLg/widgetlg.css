@@ -1,0 +1,30 @@
+.widgetlg{
+    flex: 2;
+    border: 1px solid rgb(193, 193, 193);
+    box-shadow: rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+    padding: 20px ;
+}
+
+.widgetlg table tr th{
+    text-align: left;
+}
+
+.widgetlg table tr{
+    height: 50px;
+}
+
+table img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.status-table{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: burlywood;
+    border-radius: 10px;
+    text-align: center;
+    height: 30px;
+}
